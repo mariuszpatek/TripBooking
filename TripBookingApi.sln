@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripBookingApi", "TripBookingApi\TripBookingApi.csproj", "{235A58D7-8D26-4A53-9F23-F700ABDA156F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripBookingApi.UnitTests", "TripBookingApi.UnitTests\TripBookingApi.UnitTests.csproj", "{8C5F55FA-9924-4245-8520-E65E959F5965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235A58D7-8D26-4A53-9F23-F700ABDA156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235A58D7-8D26-4A53-9F23-F700ABDA156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235A58D7-8D26-4A53-9F23-F700ABDA156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235A58D7-8D26-4A53-9F23-F700ABDA156F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5F55FA-9924-4245-8520-E65E959F5965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5F55FA-9924-4245-8520-E65E959F5965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5F55FA-9924-4245-8520-E65E959F5965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5F55FA-9924-4245-8520-E65E959F5965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
